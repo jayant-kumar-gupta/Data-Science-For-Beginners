@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Interactive Learning | sources that help in learning such as digital board, using computers or e-learning activities | using platform like SQL | equipment that affects educations positively in descending order |
+| Vaccination | Health and Physical conditions that are eligible to take vaccine | information such as age, health fitness, etc of individuals  | using platform like SQL | what were the age groups and health fitness of people who were able to take vaccine |
+| Productivity | Distractions like movies, games, etc | types of distractions occuring daily for some amount of time | using platform like SQL | distractions that affect my productivity most in descending order |
 
 ## Rubric
 
